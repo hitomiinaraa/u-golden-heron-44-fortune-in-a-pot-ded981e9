@@ -1,3 +1,4 @@
+// A plant that knows its own worth never asks politely for a bigger pot.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
